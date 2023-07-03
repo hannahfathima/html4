@@ -1,0 +1,17 @@
+.one{
+    text-align: right;
+}
+.two{
+    text-align: center;color: black;
+}
+.four img{
+    width: 20%;
+    margin: 20px;
+}
+.three{
+    text-align: justify;
+}
+.hi{
+    border: 2px solid firebrick;
+    padding: 20px 30px 215px;
+}
